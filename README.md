@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I am Von Juztis A. Elciario, a Computer Engineering student and aspiring Software Developer, currently serving as a Mobile App Developer Intern at Focus Bear. I am passionate about creating meaningful software solutions that positively impact people's daily lives, with a strong focus on building applications that are both practical and user-centered. I am actively expanding my expertise in modern web development technologies, including React, Vite, and Tailwind CSS, to develop fast, responsive, and scalable applications.<br><br>In addition to my current learning path, I have a solid foundation in programming languages such as Java, C, and C++, which have strengthened my understanding of core software development principles, data structures, and problem-solving. My background in Computer Engineering has also provided me with experience in industry-standard tools such as Cisco Packet Tracer for network simulation, KiCad and Proteus for circuit design and simulation, and SolidWorks for 3D modeling.<br><br>I am committed to continuous learning and professional growth, with the goal of becoming a highly skilled Software Developer capable of designing and building innovative technologies that make a real difference. Through my projects and internship experience, I aim to contribute reliable, efficient, and impactful solutions that improve everyday experiences for users.
 
-<!--
-**JuztisLeague/JuztisLeague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/juztisleague) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vonjuztis.elciario/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juztisleague) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/von-juztis-elciario-150617250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vjelciario@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JuztisLeague&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JuztisLeague&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuztisLeague&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
